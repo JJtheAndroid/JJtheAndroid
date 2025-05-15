@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joel
 - 👀 I’m interested in learning about solidity and other blockchains
-- 🌱 I’m currently learning solidity and rust
+- 🌱 I’m currently learning solidity, go, and rust
 - 💞️ I’m looking to collaborate on any ethereum based projects
 
 
