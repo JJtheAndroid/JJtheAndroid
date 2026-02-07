@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Cryptor
-- 👀 I’m interested in learning about solidity and other blockchains
+- 👀 I’m a web 3 security researcher with over 3+ years of experience 
 - 🌱 I’m currently learning solidity, go, and rust
-- 💞️ I’m looking to collaborate on any ethereum based projects
+- 💞️ If you are looking for an audit DM me on X https://x.com/Cryptor256
+- My profile https://audits.sherlock.xyz/watson/Cryptor
 
 
 <!---
